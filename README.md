@@ -1,4 +1,4 @@
-# CodeAlphaproject
+# CodeAlpha_BookDataAnalysis
 # 📊 CodeAlpha Data Analytics Internship Project
 
 ## 🚀 Project Overview
